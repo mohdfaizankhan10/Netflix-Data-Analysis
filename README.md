@@ -10,7 +10,7 @@ The goal of this project is to explore the Netflix catalogue, uncover content tr
 The dashboard lets users filter content by **type, genre, country, and release year**, making exploration intuitive and actionable.
 
 
-## Key Features
+## Key Features   
 
 - **Interactive Dashboard**
   - Filters: content type, genre, country, release year range  
