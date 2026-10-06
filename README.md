@@ -4,7 +4,7 @@
 This project analyzes the **Netflix Titles** dataset using Python. It includes data cleaning, exploratory analysis, visualization, and a production-ready Streamlit dashboard — a complete end-to-end data project.
 
 
-## Project Overview
+## Project Overview    
 
 The goal of this project is to explore the Netflix catalogue, uncover content trends, and present the findings through a clean, interactive web dashboard.  
 The dashboard lets users filter content by **type, genre, country, and release year**, making exploration intuitive and actionable.
